@@ -37,6 +37,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 
 
 **Anforderungsanalyse**
+
 siehe „Konzept_CoLiLab _Chatbot.pdf“ 
 ***
 
@@ -50,16 +51,16 @@ Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 - KI Technologie: OpenAI, API-Key zur Erstellung des Assisents, OpenAI Python-Bibliothek
 
 ***
-#### Schritt 1: Installation der erforderlichen Pakete
+### Schritt 1: Installation der erforderlichen Pakete
 Installation von Streamlit und die OpenAI-Bibliothek mit pip:
 ```bash 
 pip install streamlit openai
 ```
 
-#### Schritt 2: Konfiguration des OpenAI API-Schlüssels
+### Schritt 2: Konfiguration des OpenAI API-Schlüssels
 - Kontoerstellung bei OpenAI und Generierung eines API-Schlüssels unter [OpenAI API](https://auth0.openai.com/u/login/identifier?state=hKFo2SBDWFI3ODBnVjQzb3pvQVFEaU9uRG1iSGJMS0RKWHREcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEVhaXk2ZHpGRmlMclc2a0xrSkIzbjNtaFhMYU1JalR6o2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
   
--Einsetzen des API-Schlüssels in den Python Code:
+- Einsetzen des API-Schlüssels in den Python Code:
 
 Unter Linux/MacOS:
 ```bash 
@@ -71,7 +72,7 @@ Unter Windows (in der Befehlszeile):
 set OPENAI_API_KEY=Ihr_API_Schlüssel
 ```
 
-#### Schritt 3: Erstellung eines Assistenten in der OpenAI API
+### Schritt 3: Erstellung eines Assistenten in der OpenAI API
 1. Anmeldung im OpenAI-Konto
 2. Erstellung eines neuen Assistens im Bereich "Assistenten" (oder "Models").
 3. Formulierung einer Instruktion für den Assisent. 
