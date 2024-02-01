@@ -1,17 +1,18 @@
 # M2-Support-Chatbot-CoLiLab ![image](https://github.com/bionicle14/M2-Support-Chatbot-CoLiLab/assets/156296634/682aae66-050c-45a0-a42d-e5f0b9044ed9)
 
-Der ColiLab Chatbot ist ein interaktiver Assistent, der auf der OpenAI API basiert und in Streamlit integriert ist. Er bietet Unterstützung für Studenten, die an Projekten im Bereich der Medientechnologie arbeiten.
+Der Support Chatbot für das CoLiLab an der PH in Weingarten ist ein interaktiver Assistent, der auf der OpenAI API basiert und in Streamlit integriert ist. 
+Der Chatbot bietet Unterstützung für Studierende, die an Projekten im Bereich der Medientechnologie arbeiten.
 
 ***
 
 ## Table of Contents
-Ein ausführlicher Projektbericht steht unter Projektbericht_Chatbot zur Verfügung. Im Folgenden werden nur die relvantesten Inhalte vorgestellt. 
+Ein ausführlicher Projektbericht steht unter *Projektbericht_Chatbot zur Verfügung*. Im Folgenden werden nur die relevantesten Inhalte vorgestellt. 
 
 1. Projekthintergrund und -ziele
 2. Technische Umsetzung
-* 2.2 Voraussetzungen an das System
-* 2.3 Installation
-3. Instruction Chatbot
+  - 2.2 Voraussetzungen an das System
+  - 2.3 Installation
+3. Instruktion Chatbot
 4. Python- Code
    
 ***
@@ -32,14 +33,13 @@ siehe „Konzept_CoLiLab _Chatbot.pdf“
 ***
 
 ## 2. Technische Umsetzung
-Nachdem die ersten Anforderungen an den Chatbot definiert wurden, folgte die technische Umsetzung. Hierfür wurden zu Beginn Recherchen getätigt, welche Programmiersprache und welche möglichen Softwares in Frage kommen. Als Programmiersprache wurde Python gewählt. 
+Nachdem die ersten Anforderungen an den Chatbot definiert wurden, folgt die technische Umsetzung. Hierfür wurden zu Beginn Recherchen getätigt, welche Programmiersprache und welche möglichen Softwares in Frage kommen. 
 
 ## 2.1 Voraussetzung an das System
 Um den ColiLab Chatbot zu verwenden, benötigt man:
-- Python 3.6 oder höher
-- Streamlit
-- OpenAI Python-Bibliothek
-- Einen gültigen OpenAI API-Key
+- Programmiersprache: Python 3.6 oder höher
+- UserInterface mit Open-Source-Framework: Streamlit
+- KI Technologie: OpenAI, API-Key zur Erstellung des Assisents, OpenAI Python-Bibliothek
 
 ## 2.2 Installation
 ### Schritt 1: Installieren Sie die erforderlichen Pakete
