@@ -1,0 +1,384 @@
+{
+    "Blickwinkel": {
+        "Beschreibung": "Im Blickwinkel kannst du in die virtuelle Welt eintauschen und alles rund um VR und AR ausprobieren.",
+        "Hauptthemen": [
+            "Virtual- & Augmented Reality",
+            "Bildbearbeitung & Filmschnitt",
+            "Audioaufnahme"
+        ],
+        "Software": [
+            "Actionbound",
+            "Kahoot!",
+            "Lumi (H5P)",
+            "Genially",
+            "Simpleshow",
+            "Reality Composer (App)",
+            "AR-Viewer (App)",
+            "Virtuali-Tee (App)",
+            "Merge: Object Viewer (App)",
+            "Merge: Explorer (App)",
+            "MergeEDU",
+            "Zappar",
+            "animARideDemo",
+            "UnityHUB",
+            "Oculus",
+            "Earth VR",
+            "Earth Pro",
+            "VR Player",
+            "THETA+",
+            "GIMP",
+            "Photoshop",
+            "Lightroom",
+            "Affinity Photo 2",
+            "Affinity Designer 2",
+            "Procreate",
+            "Canva",
+            "OBS Studio",
+            "DaVinci Resolve",
+            "iMovie",
+            "StopMotion Studio",
+            "VideoScribe",
+            "SimpleShow",
+            "Veescope Live Greenscreen App",
+            "ScreenFlow",
+            "Audacity",
+            "GarageBand"
+        ],
+        "Hardware": [
+            "Magic Leap Cover",
+            "Mergecubes",
+            "Virtuali-Tee",
+            "Oculus Rift S + Controller",
+            "HTC Vive + Controller",
+            "iPad",
+            "iMac"
+        ]
+    }
+}
+{
+    "Ideenecke": {
+        "Konzeptentwicklung": "Entwicklung, Umsetzung und Erprobung neuer Ideen",
+        "Zusammenarbeit": "Zusammenarbeit in interdisziplinären Teams",
+        "Bildung": "gemeinsame und gegenseitige Weiterbildung",
+        "Öffnung": "die Öffnung zum schulischen Umfeld",
+        "Netzwerke": "die Schaffung von Netzwerken",
+        "Prototyping": "Fachdidaktisches Prototyping"
+    },
+    "Plauderecke": {
+        "Beschreibung": "Hier werden hauptsächlich Podcasts für Lehr-Lernzwecke aufgenommen, aber auch Songs mit dem Midi-Keyboard, der Gitarre oder anderen Instrumenten.",
+        "Hauptthemen": [
+            "Podcasting",
+            "Musikgestaltung"
+        ],
+        "Software": [
+            "Audacity",
+            "GarageBand",
+            "Komplete Control"
+        ],
+        "Hardware": [
+            "MIDI-Keyboard",
+            "Aufnahmemikrofon (Beyerdynamic M90 Pro X)",
+            "RodeCaster Pro",
+            "Kopfhörer (Beyerdynamik DT-770 Pro)",
+            "Dynamisches Sprecher- und Recordingmikrofon (Rode PodMic)",
+            "Macbook Air"
+        ]
+    },
+    "Universaal": {
+        "Beschreibung": "Hier kannst du hauptsächlich gut an den iMacs arbeiten und die Programme, wie iMovie zur Videobearbeitung, Garageband zur Audiobearbeitung und vieles mehr nutzen. Darüber hinaus werden hier ebenfalls oft professionelle Tonspuren aufgenommen oder das Filmstudio wird für professionelle Videoaufnahmen verwendet. In dem kleineren Podcaststudio können ebenfalls Podcasts aufgenommen werden.",
+        "Hauptthemen": [
+            "Videoaufnahme",
+            "Podcasting",
+            "Audioaufnahme",
+            "Produktfotografie",
+            "Fotogrammetrie",
+            "Eyetracking"
+        ],
+        "Software": [
+            "Actionbound",
+            "Kahoot!",
+            "Lumi (H5P)",
+            "Genially",
+            "Simpleshow",
+            "Agisoft Metashape Standard",
+            "GIMP",
+            "Photoshop",
+            "Lightroom",
+            "Affinity Photo 2",
+            "Affinity Designer 2",
+            "Procreate",
+            "Canva",
+            "OBS Studio",
+            "DaVinci Resolve",
+            "iMovie",
+            "StopMotion Studio",
+            "VideoScribe",
+            "SimpleShow",
+            "Veescope Live Greenscreen App",
+            "ScreenFlow",
+            "Audacity",
+            "GarageBand",
+            "iMotions"
+        ],
+        "Hardware": [
+            "Panasonic Lumix GH6",
+            "Flächenleuchte (F&V Z400S)",
+            "Rotationsplatte",
+            "Softbox",
+            "Walimex Pro Fototisch XXL",
+            "Sachtler Ace Stativ",
+            "iPad",
+            "iMac",
+            "Panasonic Lumix GH6",
+            "Greenscreen / Reflect Media",
+            "Teleprompter",
+            "Richtmikrofon",
+            "Kamerastativ",
+            "Fototisch",
+            "Aufnahmemikrofon (Beyerdynamic M90 Pro X)",
+            "RodeCaster Pro",
+            "Kopfhörer (Beyerdynamik DT-770 Pro)",
+            "Dynamisches Sprecher- und Recordingmikrofon (Rode PodMic)",
+            "Audio-Interface (Focusrite Scarlett 2i2)",
+            "Kondensatormikrofon (Rode NT1A)",
+            "Dynamisches Sprecher- und Recordingmikrofon (Rode PodMic)",
+            "Isolierte Gesangskabine (Isovox Mobile Vocal Booth V2)",
+            "Eyetracker"
+        ]
+    },
+    // Weitere Bereiche wie "Videosphäre" und "Werkbox" folgen in ähnlicher Struktur
+}
+{
+    "Videosphaere": {
+        "Beschreibung": "In der Videosphäre stehen dir verschiedene Kameras zur Verfügung und ein Greenscreen. Hier entstehen hauptsächlich Erklärvideos, Stop-Motion-Videos, digitale Bilderbücher oder professionelle Tonaufnahmen für Erklärvideos und vieles mehr.",
+        "Hauptthemen": [
+            "Gestaltung von digital gestütztem Unterricht",
+            "Erstellung von Lernvideos & digitalem Lernmaterial",
+            "Bildbearbeitung & Filmschnitt",
+            "Audioaufnahme",
+            "Erklärvideos",
+            "digitale Bilderbücher",
+            "Stop-Motion Videos"
+        ],
+        "Software": [
+            "Actionbound",
+            "Kahoot!",
+            "Lumi (H5P)",
+            "Genially",
+            "Simpleshow",
+            "GIMP",
+            "Photoshop",
+            "Lightroom",
+            "Affinity Photo 2",
+            "Affinity Designer 2",
+            "Procreate",
+            "Canva",
+            "OBS Studio",
+            "DaVinci Resolve",
+            "iMovie",
+            "StopMotion Studio",
+            "VideoScribe",
+            "SimpleShow",
+            "Veescope Live Greenscreen App",
+            "ScreenFlow",
+            "Audacity",
+            "GarageBand"
+        ],
+        "Hardware": [
+            "iPad",
+            "iMac",
+            "Audio-Interface (Focusrite Scarlett 2i2)",
+            "Kondensatormikrofon (Rode NT1A)",
+            "Dynamisches Sprecher- und Recordingmikrofon (Rode PodMic)"
+        ]
+    }
+}
+{
+    "Werkbox": {
+        "Beschreibung": "In der Werkbox kannst du Textilien mit Hilfe des Plotters und der Transferpresse bedrucken. Du kannst Sticker mithilfe des Plotters herstellen. Du kannst mit der programmierbaren Näh- und Stickmaschine jegliche Art von Textilien besticken oder umnähen. Mit dem Laser kannst du verschiedene Materialien gravieren. Mit dem 3D Drucker kannst du verschiedene Objekte, wie einen Würfel, Spielfiguren, etc. modellieren und drucken. Du kannst mit Raspberry Pi, Arduino, etc. verschiedene Dinge programmieren, wie einen Roboter, einen Wasserturm für Pflanzen und vieles mehr. Des Weiteren kannst du im Werkbereich mit der Säge, dem Bohrer, etc. eigene Werkstücke, wie einen kleinen Tisch, einen Stuhl, etc. herstellen.",
+        "Hauptthemen": [
+            "Objektdesign (CAD)",
+            "Fertigungstechniken (3D-Druck/Scanner, Schneideplotter)",
+            "Produktionsverfahren zur Erstellung analoger und digitaler Medien",
+            "Programmierung (Arduino, Calliope, Makey Makey, Raspberry Pi)",
+            "Sticken und Nähen",
+            "Lasercutting & Engraving"
+        ],
+        "Software": [
+            "Ultimaker Cura",
+            "BambuStudio",
+            "Tinkercad",
+            "Blender",
+            "Fusion 360",
+            "ExScan S",
+            "Visual Studio Code",
+            "BeamOS",
+            "SewWhat-Pro",
+            "CorelDraw Graphics Suite 2019",
+            "CutWizard"
+        ],
+        "Hardware": [
+            "Shining 3D Scanner",
+            "Laserscanner Entspiegelungsspray",
+            "Knete mehrere Farben",
+            "Stativ",
+            "Lötgerät",
+            "Entlötgerät",
+            "Raspberry Pi (Model B 2GB RAM)",
+            "Makey Makey",
+            "Arduino",
+            "Calliope mini",
+            "Makerblock mBot Ranger",
+            "Ringschlüssel",
+            "Schraubendreher",
+            "Feilen",
+            "Hammer",
+            "Gummihammer",
+            "Sechskantschlüssel",
+            "Schrauben",
+            "Nägel",
+            "Messschieber",
+            "Seitenschneider",
+            "Schraubzwinge",
+            "Maßband",
+            "Zollstock",
+            "Wasserwaage",
+            "Dremel",
+            "Säge",
+            "Lötgerät",
+            "Akku-Bohrer",
+            "Schutzbrillen",
+            "Mr Beam Lasercutter inkl. Luftfilter",
+            "Stick-/Nähmaschine (Brother Innov-is M280D)",
+            "Verschiedenes Garn",
+            "Plotter",
+            "Transferpresse"
+        ]
+    }
+}
+{
+    "Werkbox": {
+        "Beschreibung": "In der Werkbox kannst du Textilien mit Hilfe des Plotters und der Transferpresse bedrucken. Du kannst Sticker mithilfe des Plotters herstellen. Du kannst mit der programmierbaren Näh- und Stickmaschine jegliche Art von Textilien besticken oder umnähen. Mit dem Laser kannst du verschiedene Materialien gravieren. Mit dem 3D Drucker kannst du verschiedene Objekte, wie einen Würfel, Spielfiguren, etc. modellieren und drucken. Du kannst mit Raspberry Pi, Arduino, etc. verschiedene Dinge programmieren, wie einen Roboter, einen Wasserturm für Pflanzen und vieles mehr. Des Weiteren kannst du im Werkbereich mit der Säge, dem Bohrer, etc. eigene Werkstücke, wie einen kleinen Tisch, einen Stuhl, etc. herstellen.",
+        "Hauptthemen": [
+            "Objektdesign (CAD)",
+            "Fertigungstechniken (3D-Druck/Scanner, Schneideplotter)",
+            "Produktionsverfahren zur Erstellung analoger und digitaler Medien",
+            "Programmierung (Arduino, Calliope, Makey Makey, Raspberry Pi)",
+            "Sticken und Nähen",
+            "Lasercutting & Engraving"
+        ],
+        "Software": [
+            "Ultimaker Cura",
+            "BambuStudio",
+            "Tinkercad",
+            "Blender",
+            "Fusion 360",
+            "ExScan S",
+            "Visual Studio Code",
+            "BeamOS",
+            "SewWhat-Pro",
+            "CorelDraw Graphics Suite 2019",
+            "CutWizard"
+        ],
+        "Hardware": [
+            "Shining 3D Scanner",
+            "Laserscanner Entspiegelungsspray",
+            "Knete mehrere Farben",
+            "Stativ",
+            "Lötgerät",
+            "Entlötgerät",
+            "Raspberry Pi (Model B 2GB RAM)",
+            "Makey Makey",
+            "Arduino",
+            "Calliope mini",
+            "Makerblock mBot Ranger",
+            "Ringschlüssel",
+            "Schraubendreher",
+            "Feilen",
+            "Hammer",
+            "Gummihammer",
+            "Sechskantschlüssel",
+            "Schrauben",
+            "Nägel",
+            "Messschieber",
+            "Seitenschneider",
+            "Schraubzwinge",
+            "Maßband",
+            "Zollstock",
+            "Wasserwaage",
+            "Dremel",
+            "Säge",
+            "Lötgerät",
+            "Akku-Bohrer",
+            "Schutzbrillen",
+            "Mr Beam Lasercutter inkl. Luftfilter",
+            "Stick-/Nähmaschine (Brother Innov-is M280D)",
+            "Verschiedenes Garn",
+            "Plotter",
+            "Transferpresse"
+        ]
+    }
+}
+{
+    "Werkbox": {
+        "Beschreibung": "In der Werkbox kannst du Textilien mit Hilfe des Plotters und der Transferpresse bedrucken. Du kannst Sticker mithilfe des Plotters herstellen. Du kannst mit der programmierbaren Näh- und Stickmaschine jegliche Art von Textilien besticken oder umnähen. Mit dem Laser kannst du verschiedene Materialien gravieren. Mit dem 3D Drucker kannst du verschiedene Objekte, wie einen Würfel, Spielfiguren, etc. modellieren und drucken. Du kannst mit Raspberry Pi, Arduino, etc. verschiedene Dinge programmieren, wie einen Roboter, einen Wasserturm für Pflanzen und vieles mehr. Des Weiteren kannst du im Werkbereich mit der Säge, dem Bohrer, etc. eigene Werkstücke, wie einen kleinen Tisch, einen Stuhl, etc. herstellen.",
+        "Hauptthemen": [
+            "Objektdesign (CAD)",
+            "Fertigungstechniken (3D-Druck/Scanner, Schneideplotter)",
+            "Produktionsverfahren zur Erstellung analoger und digitaler Medien",
+            "Programmierung (Arduino, Calliope, Makey Makey, Raspberry Pi)",
+            "Sticken und Nähen",
+            "Lasercutting & Engraving"
+        ],
+        "Software": [
+            "Ultimaker Cura",
+            "BambuStudio",
+            "Tinkercad",
+            "Blender",
+            "Fusion 360",
+            "ExScan S",
+            "Visual Studio Code",
+            "BeamOS",
+            "SewWhat-Pro",
+            "CorelDraw Graphics Suite 2019",
+            "CutWizard"
+        ],
+        "Hardware": [
+            "Shining 3D Scanner",
+            "Laserscanner Entspiegelungsspray",
+            "Knete mehrere Farben",
+            "Stativ",
+            "Lötgerät",
+            "Entlötgerät",
+            "Raspberry Pi (Model B 2GB RAM)",
+            "Makey Makey",
+            "Arduino",
+            "Calliope mini",
+            "Makerblock mBot Ranger",
+            "Ringschlüssel",
+            "Schraubendreher",
+            "Feilen",
+            "Hammer",
+            "Gummihammer",
+            "Sechskantschlüssel",
+            "Schrauben",
+            "Nägel",
+            "Messschieber",
+            "Seitenschneider",
+            "Schraubzwinge",
+            "Maßband",
+            "Zollstock",
+            "Wasserwaage",
+            "Dremel",
+            "Säge",
+            "Lötgerät",
+            "Akku-Bohrer",
+            "Schutzbrillen",
+            "Mr Beam Lasercutter inkl. Luftfilter",
+            "Stick-/Nähmaschine (Brother Innov-is M280D)",
+            "Verschiedenes Garn",
+            "Plotter",
+            "Transferpresse"
+        ]
+    }
+}
