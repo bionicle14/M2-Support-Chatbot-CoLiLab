@@ -10,7 +10,7 @@ Ein ausführlicher Projektbericht steht unter *Projektbericht_Chatbot zur Verfü
 
 #### 1. Projekthintergrund und -ziele
 #### 2. Technische Umsetzung
-#### 3. Installation
+#### 3. Ausführung
 #### 4. Instruktion Chatbot
 #### 5. Python- Code
    
@@ -44,7 +44,7 @@ Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 
 ***
 
-## 3. Installation
+## 3. Ausführung
 #### Schritt 1: Installation der erforderlichen Pakete
 Installation von Streamlit und die OpenAI-Bibliothek mit pip:
 ```bash 
@@ -66,8 +66,11 @@ set OPENAI_API_KEY=Ihr_API_Schlüssel
 
 ### Schritt 3: Erstellung eines Assistenten in der OpenAI API
 1. Anmeldung im OpenAI-Konto
-2. Im Bereich "Assistenten" (oder "Models") kann ein neuer Assistent erstellt werden.
-3. Gebe dem Assistenten eine Instruktion.
+2. Erstellung eines neuen Assistens im Bereich "Assistenten" (oder "Models").
+3. Formulierung einer Instruktion für den Assisent. 
+4. *Optional*: Daten/Dateien hochladen. Beispielsweise: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
+5. GPT-Version auswählen: GPT 3.5-turbo-1106
+6. ID des Assistenten notieren (z.B.: asst_cB9mgH4hwJaLeK9z8VF7lxsh).
    
 ***
 
@@ -102,14 +105,10 @@ _**Wissensbasierte Antworten**_:
 Falls die Fragen nicht mit den bereitgestellten Ressourcen beantwortet werden können, greife auf dein bereits vorhandenes Wissen zurück, um den Studierenden effektiv zu helfen.
 
 ***
+
 ## 5. Python Code
 Um den Chatbot lokal zu öffnen sind folgende Schritte notwendig:
-
-4. OPTIONAL Laden Sie de Datein hoch auf welche Sie verweisen möchten. In unserem Fall: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
-5. Nutzen Sie die von Ihnen gewünschte Version von GPT. Zum testen wurde GPT 3.5-turbo-1106 genutzt, da es kosteneffizient ist und doch schon sehr Leistungsstark.
-6. Notieren Sie sich die ID des Assistenten (z. B. asst_cB9mgH4hwJaLeK9z8VF7lxsh).
-
-### Schritt 4: Ausführen der Streamlit-App
+#### Schritt 4: Ausführen der Streamlit-App
 Setzen Sie die ID Ihres Assistenten und Ihren OpenAI API Key im Python-Skript (openai.api_key = "IHR_API_KEY" ;assistant_id = "Ihre_Assistenten_ID") und starten Sie die Streamlit-App in ihrem Verzeichnis, in dem Sie im Terminal folgendes eingeben:
 ```bash 
 streamlit run coli.py
