@@ -6,7 +6,7 @@ Der Chatbot bietet Unterstützung für Studierende, die an Projekten im Bereich 
 ***
 
 ## Table of Contents
-Ein ausführlicher Projektbericht steht unter [Projektbericht_Chatbot zur Verfügung](/Projektbericht_Chatbot.docx). Im Folgenden werden nur die relevantesten Inhalte vorgestellt. 
+Ein ausführlicher Projektbericht steht unter [Projektbericht_Chatbot](/Projektbericht_Chatbot.docx) zur Verfügung. Im Folgenden werden nur die relevantesten Inhalte vorgestellt. 
 
 #### 1. Projekthintergrund und -ziele
 #### 2. Technische Umsetzung
@@ -39,7 +39,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 
 #### Anforderungsanalyse
 
-siehe unter [Konzept CoLiLab](.../Projektphase 1/Konzept_CoLiLab_Chatbot.pdf) 
+siehe unter [Konzept CoLiLab](M2-Support-Chatbot-CoLiLab/Projektphase 1/Konzept_CoLiLab_Chatbot.pdf)
 
 ***
 
