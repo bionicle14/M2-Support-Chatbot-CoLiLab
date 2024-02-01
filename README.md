@@ -48,17 +48,19 @@ Nachdem die ersten Anforderungen an den Chatbot definiert wurden, folgt die tech
 ### Voraussetzung an das System
 Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 - Programmiersprache: Python 3.6 oder höher
-- UserInterface mit Open-Source-Framework: Streamlit
+- UserInterface mit Open-Source-Framework: Streamlit 
 - KI Technologie: OpenAI, API-Key zur Erstellung des Assisents, OpenAI Python-Bibliothek
 
+### Schritt 1: Python Code 
+Einen Python Code für die grundlegende Large Language Model-Chat-App, d.h. [Streamlit](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps) schreiben. 
 
-### Schritt 1: Installation der erforderlichen Pakete
+### Schritt 2: Installation der erforderlichen Pakete
 Installation von Streamlit und die OpenAI-Bibliothek mit pip:
 ```bash 
 pip install streamlit openai
 ```
 
-### Schritt 2: Konfiguration des OpenAI API-Schlüssels
+### Schritt 3: Konfiguration des OpenAI API-Schlüssels
 - Kontoerstellung bei OpenAI und Generierung eines API-Schlüssels unter [OpenAI API](https://auth0.openai.com/u/login/identifier?state=hKFo2SBDWFI3ODBnVjQzb3pvQVFEaU9uRG1iSGJMS0RKWHREcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEVhaXk2ZHpGRmlMclc2a0xrSkIzbjNtaFhMYU1JalR6o2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
   
 - Einsetzen des API-Schlüssels in den Python Code:
@@ -73,7 +75,8 @@ Unter Windows (in der Befehlszeile):
 set OPENAI_API_KEY=Ihr_API_Schlüssel
 ```
 
-### Schritt 3: Erstellung eines Assistenten in der OpenAI API
+### Schritt 4: Erstellung eines Assistenten in der OpenAI API 
+(https://platform.openai.com/docs/assistants/overview)
 1. Anmeldung im OpenAI-Konto
 2. Erstellung eines neuen Assistens im Bereich "Assistenten" (oder "Models").
 3. Formulierung einer Instruktion für den Assisent. 
