@@ -1,1 +1,1 @@
-# M2-Support-Chatbot-f-rs-CoLiLab
+# M2-Support-Chatbot-CoLiLab
