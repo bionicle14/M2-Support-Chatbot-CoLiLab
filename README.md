@@ -18,19 +18,21 @@ Ein ausführlicher Projektbericht steht unter *Projektbericht_Chatbot zur Verfü
 ## 1. Projekthintergund und -ziele
 
 **Ausgangssituation und Problemstellung**
+
 Im Rahmen der Veranstaltung „Projektseminar Medienprojekt – Interaktive Medien“ im Wintersemester 2023/2024 wurden von Prof. Herr Wolfgang Müller und Herr Stefan Franke verschiedene Konzepte für mögliche Medienprojekte vorgestellt. Unser Favorit war ein virtueller (Lern-)Client mit ChatGPT OpenAi.
 Hintergrund ist das „Teacher Education goes digital – Projekt (TEgoDi)“ der Pädagogischen Hochschule Weingarten. Auf Basis eines bildungstheoretisch fundierten, interdisziplinär ausgerichteten Konzepts werden Medienprojekte im Lehramtsstudium integrativ implementiert (Müller et al., 2021). Daher ist ab dem Sommersemester 2025 die Durchführung von zwei Medienprojekten mit unterschiedlicher Zielrichtung für Lehramtsstudierende obligatorisch. (https://zendi.ph-weingarten.de/wiki/de/scenarios/tegodi-media-projects#einzelnachweise) 
 
 Und genau an diesen Punkt knüpft unser Lernclient an. Aufgrund der Verankerung im Curriculum der Lehramtsstudierenden ab Sommersemester 2025 werden viele Studierende Medienprojekte im CoLiLab umsetzen. Aus diesem Grund vermuten wir, dass vermehrte Anfragen zu allgemeinen Themen rund um Medienprojekte sowie deren Erstellung entstehen werden. Hier kann ein Lernclient in Form eines Chatbots zur Unterstützung der Mitarbeitenden im CoLiLab eingesetzt werden. Der Chatbot soll einfache Fragen beantworten, Hilfestellung leisten sowie Erstanlaufstelle für Umsetzung der Medienprojekte sein. 
 
 **Zielsetzung**
+
 Aus der Problemanalyse erfolgt eine erste Idee für den virtuellen Lernclient mit ChatGPT/ OpenAi. Es sollen allgemeine Fragen zu Medienprojekten mit CoLiLab spezifischen Antworten verbunden werden. Der Arbeitstitel für das Projekt lautet: 
 *Konzeption und Entwicklung eines Chatbots zur Unterstützung von Studierenden bei der Medienprojekt- Umsetzung* 
 Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen: 
 - Beantwortung allgemeiner Fragen zu Medienprojekten und Gestaltung digitaler Lehr- Lern-Materialien
 - Suche nach Informationen und Materialien im CoLiLab 
 
-#### Anforderungsanalyse
+**Anforderungsanalyse**
 siehe „Konzept_CoLiLab _Chatbot.pdf“ 
 ***
 
@@ -51,13 +53,15 @@ pip install streamlit openai
 ```
 
 #### Schritt 2: Konfiguration des OpenAI API-Schlüssels
-Kontoerstellung bei OpenAI und Generierung eines API-Schlüssels unter [OpenAI API](https://auth0.openai.com/u/login/identifier?state=hKFo2SBDWFI3ODBnVjQzb3pvQVFEaU9uRG1iSGJMS0RKWHREcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEVhaXk2ZHpGRmlMclc2a0xrSkIzbjNtaFhMYU1JalR6o2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
+- Kontoerstellung bei OpenAI und Generierung eines API-Schlüssels unter [OpenAI API](https://auth0.openai.com/u/login/identifier?state=hKFo2SBDWFI3ODBnVjQzb3pvQVFEaU9uRG1iSGJMS0RKWHREcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEVhaXk2ZHpGRmlMclc2a0xrSkIzbjNtaFhMYU1JalR6o2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
+  
+-Einsetzen des API-Schlüssels in den Python Code:
 
-Einsetzen des API-Schlüssels in den Python Code:
 Unter Linux/MacOS:
 ```bash 
 export OPENAI_API_KEY='Ihr_API_Schlüssel'
 ```
+
 Unter Windows (in der Befehlszeile):
 ```bash 
 set OPENAI_API_KEY=Ihr_API_Schlüssel
@@ -110,7 +114,8 @@ Um den Chatbot lokal zu öffnen sind folgende Schritte notwendig:
 1. Öffnen des Python Skript im Quelltext-Editor z.B. Visual Studio Code
 2. Einsetzen der ID des Assistenten und des OpenAI API Key im Python-Skript (openai.api_key = "IHR_API_KEY" ;assistant_id = "Ihre_Assistenten_ID")
 3. Ausführen der Streamlit-App in cmd.exe (Eingabeaufforderung) durch folgende Eingabe im Terminal:
+   
 ```bash 
 streamlit run coli.py
 ```
-Nun sollte sich auf dem Rechner die Streamlit App öffnen: Coli 🐦 und man kann den Chatbot nutzen 
+Nun sollte sich auf dem Rechner die Streamlit App öffnen: Coli 🐦 
