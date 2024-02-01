@@ -9,8 +9,8 @@ Ein ausführlicher Projektbericht steht unter Projektbericht_Chatbot zur Verfüg
 
 1. Projekthintergrund und -ziele
 2. Technische Umsetzung
-   2.1 Voraussetzungen an das System
-   2.2 Installation
+⋅⋅2.1 Voraussetzungen an das System
+⋅⋅2.2 Installation
 3. Instruction Chatbot
 4. Python- Code
    
@@ -30,6 +30,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 Anforderungsanalyse
 siehe (M2-Support-Chatbot-CoLiLab/Projektphase 1/Konzept_CoLiLab _Chatbot.pdf)
 README.md
+[I'm an inline-style link](https://www.google.com)
 ***
 
 ## 2. Technische Umsetzung
