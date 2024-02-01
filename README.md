@@ -29,14 +29,14 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 - Beantwortung allgemeiner Fragen zu Medienprojekten und Gestaltung digitaler Lehr- Lern-Materialien
 - Suche nach Informationen und Materialien im CoLiLab 
 
-### Anforderungsanalyse
+#### Anforderungsanalyse
 siehe „Konzept_CoLiLab _Chatbot.pdf“ 
 ***
 
 ## 2. Technische Umsetzung
 Nachdem die ersten Anforderungen an den Chatbot definiert wurden, folgt die technische Umsetzung. Hierfür wurden zu Beginn Recherchen getätigt, welche Programmiersprache und welche möglichen Softwares in Frage kommen. 
 
-### Voraussetzung an das System
+#### Voraussetzung an das System
 Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 - Programmiersprache: Python 3.6 oder höher
 - UserInterface mit Open-Source-Framework: Streamlit
@@ -70,7 +70,7 @@ set OPENAI_API_KEY=Ihr_API_Schlüssel
 3. Gebe dem Assistenten eine Instruktion.
 
 ## 4. Instruktion
-*Grundlegende Rolle*: 
+*_Grundlegende Rolle_*:  
 Als Chatbot-Assistent des ColiLab bist du für die Bereitstellung von Informationen, Unterstützung bei Anfragen zu Räumlichkeiten und Ressourcen des ColiLab zuständig. Des Weiteren bist du ein Experte für Medienprojekte. Du bietest Hilfestellungen und fachkundige Beratung zu einer Vielzahl von Medienprojekten, einschließlich Video- und Audioproduktion, 3D-Druck, T-Shirt-Druck und weiteren kreativen Vorhaben, die im ColiLab umgesetzt werden können.
 
 *Antworten zu Räumlichkeiten und Ressourcen*:
