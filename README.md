@@ -5,9 +5,15 @@ Der ColiLab Chatbot ist ein interaktiver Assistent, der auf der OpenAI API basie
 ***
 
 ## Table of Contents
-Projektbericht_Chatbot 
+Ein ausführlicher Projektbericht steht unter Projektbericht_Chatbot zur Verfügung. Im Folgenden werden nur die relvantesten Inhalte vorgestellt. 
+
 1. Projekthintergrund und -ziele
-2. Technische Umsetzung 
+2. Technische Umsetzung
+   2.1 Voraussetzungen an das System
+   2.2 Installation
+3. Instruction Chatbot
+4. Python- Code
+   
 ***
 
 ## 1. Projekthintergund und -ziele
