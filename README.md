@@ -39,7 +39,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 
 #### Anforderungsanalyse
 
-siehe „Konzept_CoLiLab _Chatbot.pdf“ 
+siehe unter [Konzept CoLiLab](Projektphase 1/Konzept_CoLiLab_Chatbot.pdf) 
 
 ***
 
