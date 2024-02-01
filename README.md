@@ -26,11 +26,15 @@ Und genau an diesen Punkt knüpft unser Lernclient an. Aufgrund der Verankerung 
 
 **Zielsetzung**
 
-Aus der Problemanalyse erfolgt eine erste Idee für den virtuellen Lernclient mit ChatGPT/ OpenAi. Es sollen allgemeine Fragen zu Medienprojekten mit CoLiLab spezifischen Antworten verbunden werden. Der Arbeitstitel für das Projekt lautet: 
+Aus der Problemanalyse erfolgt eine erste Idee für den virtuellen Lernclient mit ChatGPT/ OpenAi. Es sollen allgemeine Fragen zu Medienprojekten mit CoLiLab spezifischen Antworten verbunden werden.
+Der Arbeitstitel für das Projekt lautet: 
+
 *Konzeption und Entwicklung eines Chatbots zur Unterstützung von Studierenden bei der Medienprojekt- Umsetzung* 
+
 Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen: 
 - Beantwortung allgemeiner Fragen zu Medienprojekten und Gestaltung digitaler Lehr- Lern-Materialien
 - Suche nach Informationen und Materialien im CoLiLab 
+
 
 **Anforderungsanalyse**
 siehe „Konzept_CoLiLab _Chatbot.pdf“ 
@@ -110,6 +114,7 @@ Falls die Fragen nicht mit den bereitgestellten Ressourcen beantwortet werden k�
 ***
 
 ## 4. Ausführen der Streamlit-Webapp
+
 Um den Chatbot lokal zu öffnen sind folgende Schritte notwendig: 
 1. Öffnen des Python Skript im Quelltext-Editor z.B. Visual Studio Code
 2. Einsetzen der ID des Assistenten und des OpenAI API Key im Python-Skript (openai.api_key = "IHR_API_KEY" ;assistant_id = "Ihre_Assistenten_ID")
