@@ -8,10 +8,10 @@ Der Chatbot bietet Unterstützung für Studierende, die an Projekten im Bereich 
 ## Table of Contents
 Ein ausführlicher Projektbericht steht unter *Projektbericht_Chatbot zur Verfügung*. Im Folgenden werden nur die relevantesten Inhalte vorgestellt. 
 
-### 1. Projekthintergrund und -ziele
-### 2. Technische Umsetzung
-### 3. Installation
-### 4. Instruktion Chatbot
+#### 1. Projekthintergrund und -ziele
+#### 2. Technische Umsetzung
+#### 3. Installation
+#### 4. Instruktion Chatbot
 ### 5. Python- Code
    
 ***
