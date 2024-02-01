@@ -76,11 +76,11 @@ set OPENAI_API_KEY=Ihr_API_Schlüssel
 ```
 
 ### Schritt 4: Erstellung eines Assistenten in der OpenAI API 
-(https://platform.openai.com/docs/assistants/overview)
+
 1. Anmeldung im OpenAI-Konto
-2. Erstellung eines neuen Assistens im Bereich "Assistenten" (oder "Models").
-3. Formulierung einer Instruktion für den Assisent. 
-4. *Optional*: Daten/Dateien hochladen. Beispielsweise: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
+2. Erstellung eines neuen [Assistents](https://platform.openai.com/docs/assistants/overview) im Bereich "Assistenten" (oder "Models").
+3. Formulierung einer Instruktion für den Assistent. 
+4. *Optional*:Daten in den Assistent integrieren, beispielsweise: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
 5. GPT-Version auswählen: GPT 3.5-turbo-1106
 6. ID des Assistenten notieren (z.B.: asst_cB9mgH4hwJaLeK9z8VF7lxsh).
    
