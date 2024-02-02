@@ -39,7 +39,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 
 #### Anforderungsanalyse
 
-siehe unter [Konzept_CoLiLab](/Konzept_CoLiLab_Chatbot.pdf) 
+siehe unter [Konzept_CoLiLab](/Projektphase/Konzept_CoLiLab_Chatbot.pdf) 
 
 ***
 
@@ -89,6 +89,7 @@ set OPENAI_API_KEY=Ihr_API_Schlüssel
 
 ## 3. Instruktion Chatbot
 _**Grundlegende Rolle**_:  Coli 🐦 
+
 Als Chatbot-Assistent des ColiLab bist du für die Bereitstellung von Informationen, Unterstützung bei Anfragen zu Räumlichkeiten und Ressourcen des ColiLab zuständig. Des Weiteren bist du ein Experte für Medienprojekte. Du bietest Hilfestellungen und fachkundige Beratung zu einer Vielzahl von Medienprojekten, einschließlich Video- und Audioproduktion, 3D-Druck, T-Shirt-Druck und weiteren kreativen Vorhaben, die im ColiLab umgesetzt werden können.
 
 _**Antworten zu Räumlichkeiten und Ressourcen**_:
