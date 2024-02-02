@@ -39,7 +39,7 @@ Dabei soll der Support Chatbot zwei wesentliche Aufgaben erfüllen:
 
 #### Anforderungsanalyse
 
-siehe unter [Konzept CoLiLab](M2-Support-Chatbot-CoLiLab/Projektphase 1/Konzept_CoLiLab_Chatbot.pdf)
+siehe unter [Konzept CoLiLab](/Projektphase 1/Konzept_CoLiLab_Chatbot.pdf)
 
 ***
 
@@ -81,7 +81,7 @@ set OPENAI_API_KEY=Ihr_API_Schlüssel
 1. Anmeldung im OpenAI-Konto
 2. Erstellung eines neuen [Assistents](https://platform.openai.com/docs/assistants/overview) im Bereich "Assistenten" (oder "Models").
 3. Formulierung einer Instruktion für den Assistent. 
-4. *Optional*:Daten in den Assistent integrieren, beispielsweise: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
+4. *Optional*: Daten in den Assistent integrieren, beispielsweise: weingarten-competency-framework.pdf und Colilab Räume_Raumbeschreibung.xlsx
 5. GPT-Version auswählen: GPT 3.5-turbo-1106
 6. ID des Assistenten notieren (z.B.: asst_cB9mgH4hwJaLeK9z8VF7lxsh).
    
@@ -104,12 +104,12 @@ Bei spezifischen Anfragen zu Steckbriefen und Anleitungen für Geräte und Progr
   
 _**Buchungslinks für spezifische Räume**_:
 Bei Anfragen zur Buchung bestimmter Räume im ColiLab, gib folgende direkte Links aus:
-- Universaal:[Buchung Universaal](https://colilab.ph-weingarten.de/mrbs/index.php?view=week&view_all=1&area=4&room=17)
+- Universaal: [Buchung Universaal](https://colilab.ph-weingarten.de/mrbs/index.php?view=week&view_all=1&area=4&room=17)
 - Plauderecke: [Buchung Plauderecke](https://colilab.ph-weingarten.de/mrbs/index.php?view=week&view_all=1&area=5&room=29)
 - Werkbox: [Buchung Werkbox](https://colilab.ph-weingarten.de/mrbs/index.php?csrf_token=8dfba6f6a9d579a5488d8d08b6ce0272f8dbc1aa363d569415db346a595a3a3e&view=week&view_all=0&area=3&room=14)
-- Blickwinkel:[Buchung Blickwinkel](https://colilab.ph-weingarten.de/mrbs/index.php?view=week&view_all=0&area=2&room=10)
-- Videosphäre:  [Buchung Videosphäre](https://colilab.ph-weingarten.de/mrbs/index.php?csrf_token=e4a41218eec3e2423f4ef830506ff914325d2346fff91ae41ed60c9303ec16f1&view=week&page)
-- bei allgemeinen Buchungsanfrage: https://colilab.ph-weingarten.de/buchung.html 
+- Blickwinkel: [Buchung Blickwinkel](https://colilab.ph-weingarten.de/mrbs/index.php?view=week&view_all=0&area=2&room=10)
+- Videosphäre: [Buchung Videosphäre](https://colilab.ph-weingarten.de/mrbs/index.php?csrf_token=e4a41218eec3e2423f4ef830506ff914325d2346fff91ae41ed60c9303ec16f1&view=week&page)
+- bei allgemeinen Buchungsanfrage: https://colilab.ph-weingarten.de/buchung.html  
 
 _**Kontakt für spezifische Anfragen**_:
 Für detaillierte oder spezifische Anfragen, die du nicht direkt beantworten kannst, verweise auf die E-Mail-Adresse des ColiLabs: [colilab@ph-weingarten.de](mailto:colilab@ph-weingarten.de).
@@ -130,3 +130,6 @@ Um den Chatbot lokal zu öffnen sind folgende Schritte notwendig:
 streamlit run coli.py
 ```
 Nun sollte sich auf dem Rechner die Streamlit App öffnen: Coli 🐦 
+![Coli 1](https://github.com/bionicle14/M2-Support-Chatbot-CoLiLab/assets/156296634/5f95bdb0-eb31-43fb-a0d4-c204aecb77f7)
+
+
