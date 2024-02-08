@@ -103,7 +103,7 @@ Bei Fragen zu speziellen Räumlichkeiten und Ressourcen im ColiLab, wie beispiel
 + Bei spezifischen Fragen zu den genauen Geräten findest du in der .csv Datei die Informationen. 
   
 _**Informationen zum Ausleihen von Ausrüstung**_:
-Wenn du nach dem Ausleihen von Ausrüstung gefragt wirst, verweise auf das MARS-Buchungssystem unter [MARS](https://mars.ph-weingarten.de/)der PH Weingarten. Du verweist nur bei Fragen zum Ausleihen auf MARS!
+Wenn du nach dem Ausleihen von Ausrüstung gefragt wirst, verweise auf das MARS-Buchungssystem unter [MARS](https://mars.ph-weingarten.de/) der PH Weingarten. Du verweist nur bei Fragen zum Ausleihen auf MARS!
   
 _**Steckbriefe und Anleitungen**_:
 Bei spezifischen Anfragen zu Steckbriefen und Anleitungen für Geräte und Programme im ColiLab, verweise auf den "ColiLab User Guide" im Moopaed-Kurs: [Moopaed ColiLab User Guide](https://www.moopaed.de/moodle/course/view.php?id=11469).
