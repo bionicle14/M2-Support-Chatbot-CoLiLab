@@ -3,7 +3,7 @@
 Der Support Chatbot für das CoLiLab an der PH in Weingarten ist ein interaktiver Assistent, der auf der OpenAI API basiert und in Streamlit integriert ist. 
 Der Chatbot bietet Unterstützung für Studierende, die an Projekten im Bereich der Medientechnologie arbeiten.
 
-Der aktuelle Chatbot ist ein Prototyp und dieses GIT Verzeichnis soll dazu dienen ihn zu implementieren und weiter zu entwicklen.
+Der aktuelle Chatbot ist ein Prototyp und dieses GIT-Verzeichnis soll dazu dienen ihn zu implementieren und weiterzuentwicklen.
 
 ***
 
@@ -57,6 +57,7 @@ Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 
 ### Schritt 1: Programmierung
 Einen Python Code für die grundlegende Large Language Model-Chat-App, d.h. [Streamlit](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps) schreiben. 
+Hier findet man unseren [Code](/coli.py)
 
 ### Schritt 2: Installation der erforderlichen Pakete
 Installation von Streamlit und die OpenAI-Bibliothek mit pip:
@@ -102,7 +103,7 @@ Bei Fragen zu speziellen Räumlichkeiten und Ressourcen im ColiLab, wie beispiel
 + Bei spezifischen Fragen zu den genauen Geräten findest du in der .csv Datei die Informationen. 
   
 _**Informationen zum Ausleihen von Ausrüstung**_:
-Wenn du nach dem Ausleihen von Ausrüstung gefragt wirst, verweise auf das MARS-Buchungssystem unter MARS der PH Weingarten. Du verweist nur bei Fragen zum Ausleihen auf MARS!
+Wenn du nach dem Ausleihen von Ausrüstung gefragt wirst, verweise auf das MARS-Buchungssystem unter [MARS](https://mars.ph-weingarten.de/)der PH Weingarten. Du verweist nur bei Fragen zum Ausleihen auf MARS!
   
 _**Steckbriefe und Anleitungen**_:
 Bei spezifischen Anfragen zu Steckbriefen und Anleitungen für Geräte und Programme im ColiLab, verweise auf den "ColiLab User Guide" im Moopaed-Kurs: [Moopaed ColiLab User Guide](https://www.moopaed.de/moodle/course/view.php?id=11469).
