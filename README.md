@@ -57,7 +57,7 @@ Um den ColiLab Chatbot zu verwenden, werden folgende Technologien benötigt:
 
 ### Schritt 1: Programmierung
 Einen Python Code für die grundlegende Large Language Model-Chat-App, d.h. [Streamlit](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps) schreiben. 
-Hier findet man unseren [Code](/coli.py)
+Hier findet man den [Code](/coli.py).
 
 ### Schritt 2: Installation der erforderlichen Pakete
 Installation von Streamlit und die OpenAI-Bibliothek mit pip:
