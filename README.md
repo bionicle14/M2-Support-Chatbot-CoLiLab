@@ -3,7 +3,7 @@
 Der Support Chatbot für das CoLiLab an der PH in Weingarten ist ein interaktiver Assistent, der auf der OpenAI API basiert und in Streamlit integriert ist. 
 Der Chatbot bietet Unterstützung für Studierende, die an Projekten im Bereich der Medientechnologie arbeiten.
 
-Der aktuelle Chatbot ist ein Prototyp und dieses GIT-Verzeichnis soll dazu dienen ihn zu implementieren und weiterzuentwicklen.
+*Der aktuelle Chatbot ist ein Prototyp und dieses GIT-Verzeichnis soll dazu dienen ihn zu implementieren und weiterzuentwicklen.*
 
 ***
 
