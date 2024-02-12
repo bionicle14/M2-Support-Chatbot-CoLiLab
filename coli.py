@@ -3,7 +3,7 @@ import streamlit as st
 import time
 
 # Setzen des Assistenten-IDs
-assistant_id = "asst_Xz3vACcLUqtB0ftQJsTjCAe4"
+assistant_id = ""
 
 # Zugriff auf die OpenAI API
 client = openai
@@ -20,7 +20,7 @@ if "messages" not in st.session_state:
 st.set_page_config(page_title="Coli 🐦", page_icon=":speech_balloon:")
 
 # Setzen des OpenAI API-Schlüssels
-openai.api_key = "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"  # Setze deinen API-Schlüssel hier
+openai.api_key = ""  # Setze deinen API-Schlüssel hier
 
 # Schaltfläche zum Starten des Chats
 if st.sidebar.button("Chat starten"):
